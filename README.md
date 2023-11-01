@@ -52,7 +52,9 @@ Our approach is customer-centric, focusing on understanding customer preferences
 2. Navigate to the project directory.
 3. Run the code by executing code file name.ipynb using Jupyter NoteBook.
    ```
- To Run Our Coding File in Microsoft Visual Studio Code
+   [Command to run the Code
+   jupyter notebook filename.ipynb]
+ 
    ```
    
 ## Dependencies
